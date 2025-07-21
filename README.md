@@ -18,7 +18,7 @@
 ```typescript
 const avrodeep = {
     location: "India 🇮🇳",
-    education: "MCA @JU && BScCS @BRSNC-WBSU"
+    education: "MCA @JU && BScCS @BRSNC-WBSU",
     currentStatus: "Final Year Student & Tech Enthusiast",
     askMeAbout: ["AI/ML", "Full Stack Development", "UI/UX Design", "Travel Stories"],
     currentlyWorking: "Exploring advanced AI/ML technologies & building innovative solutions",
@@ -139,7 +139,8 @@ const avrodeep = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvrodeepPal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AvrodeepPal)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/AvrodeepPal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://avrodeeppal.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://avrodeeppal-portfolio.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1biiOnfbyn7DnGQesvgodBLi3PhMoXwoM/view)
 
 </div>
 
