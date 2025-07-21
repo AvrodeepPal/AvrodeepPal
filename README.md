@@ -117,7 +117,7 @@ const avrodeep = {
 |---|---|
 | 🥇 WBSU Rank 1 | 💻 Multiple Full Stack Projects |
 | 🥈 WB-JECA Rank 2 | 🤖 AI/ML Model Development |
-| 📚 BTech CSE (AI & ML) | 🚀 3x Performance Improvements |
+| 📚 MCA && BScCS | 🚀 3x Performance Improvements |
 | ⭐ Consistent Academic Excellence | 📊 94.60% ML Model Accuracy |
 
 ---
