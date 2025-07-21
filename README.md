@@ -17,9 +17,8 @@
 
 ```typescript
 const avrodeep = {
-    pronouns: "he/him",
-    location: "West Bengal, India 🇮🇳",
-    education: "BTech CSE (AI & ML Specialization)",
+    location: "India 🇮🇳",
+    education: "MCA @JU && BScCS @BRSNC-WBSU"
     currentStatus: "Final Year Student & Tech Enthusiast",
     askMeAbout: ["AI/ML", "Full Stack Development", "UI/UX Design", "Travel Stories"],
     currentlyWorking: "Exploring advanced AI/ML technologies & building innovative solutions",
