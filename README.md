@@ -112,20 +112,6 @@ const avrodeep = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=AvrodeepPal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvrodeepPal&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvrodeepPal&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🏆 Achievements & Recognition
 
 | 🎓 **Academic** | 🏅 **Technical** |
