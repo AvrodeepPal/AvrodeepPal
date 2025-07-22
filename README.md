@@ -23,7 +23,7 @@ const avrodeep = {
     askMeAbout: ["AI/ML", "Full Stack Development", "UI/UX Design", "Travel Stories"],
     currentlyWorking: "Exploring advanced AI/ML technologies & building innovative solutions",
     funFact: "I once spent hours tweaking portfolio colors — lavender didn't win! 🎨",
-    motto: "Code should be joyful, not just functional ✨"
+    motto: "Make a Comeback, Make an Impact! ✨"
 };
 ```
 
