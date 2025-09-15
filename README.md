@@ -1,8 +1,8 @@
-# ⚡ Avrodeep Pal | AI Alchemist & Midnight Code Craftsman
+# ⚡ Avrodeep Pal | Data Science & Web Development
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Midnight+Coder+%7C+AI+Enthusiast;Building+LLMs+%26+Intelligent+Systems;From+Credit+Risk+to+Stock+Predictions;Fueled+by+Black+Tea+%26+Anime+OSTs)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Midnight+Coder+%7C+AI+Enthusiast;Building+LLMs+%26+Intelligent+Systems;Credit+Risk+to+Stock+Predictions;Fueled+by+Black+Tea+%26+Anime+OSTs)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AvrodeepPal&label=Profile%20views&color=00d9ff&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/AvrodeepPal?label=Followers&style=for-the-badge&color=00d9ff&labelColor=black)
