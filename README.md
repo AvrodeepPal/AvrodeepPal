@@ -18,9 +18,9 @@
 <div align="center">
 
 **🍵 Current Brew:** *Strong black tea, third cup of the night*  
-**🎵 Now Playing:** *Attack on Titan - "Shinzou wo Sasageyo" on loop*  
+**🎵 Now Playing:** *Cyberpunk: Edgerunners- "I Really Want to Stay at Your House" on loop*  
 **⏰ Peak Hours:** *11 PM - 3 AM (When the code writes itself)*  
-**🧠 Mind State:** *In the zone, caffeinated, and creating*
+**🧠 Mind State:** *In the zone, non-caffeinated, and creating*
 
 </div>
 
@@ -126,24 +126,13 @@ def get_midnight_mood(self):
 
 ---
 
-## 🎵 The Coding Soundtrack Experience
-
-> **Anime OSTs That Fuel My Code:**
-> - Attack on Titan Openings (for intense debugging sessions)
-> - Demon Slayer OSTs (for smooth algorithm flow)
-> - Jujutsu Kaisen themes (for ML model training)
-> - Death Note soundtrack (for late-night architecture planning)
-
-*Fun Fact: My code quality directly correlates with the epic-ness of the background music* 🎶
-
----
 
 ## 🌟 Connect & Collaborate
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avrodeep-pal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avrodeeppal@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avrodeep.pal17@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://avrodeeppal-portfolio.vercel.app/)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AvrodeepPal)
